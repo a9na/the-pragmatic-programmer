@@ -1,2 +1,1 @@
-# the-pragmatic-programmer
-Studying the book by Andrew Hunt and taking notes.
+We who cut mere stones must always be envisioning cathedrals. —Quarry worker's creed
